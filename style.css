@@ -29,3 +29,8 @@ footer {
     color: #555;
     padding: 1em;
 }
+
+.logo {
+    max-height: 80px;
+    margin-bottom: 10px;
+}
